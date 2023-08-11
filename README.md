@@ -1,0 +1,1 @@
+This is a simple pong clone for two players created using the turtle library for python. Player one uses the up and down arrow keys to control their paddle, while player two uses "W" and "S". Type yes in the starting window to begin playing the game.
