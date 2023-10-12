@@ -1,11 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
-# CURRENT FUNCTIONING VERSION, REPLAY AVAILABLE
-
 import turtle
 import functools
 
@@ -272,10 +264,6 @@ while game_on != None and game_on.lower().startswith("y"):
     
     
 wn.mainloop()
-
-
-# In[ ]:
-
 
 
 
